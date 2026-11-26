@@ -1,5 +1,5 @@
 // =====================================================================
-//  SolarSentry SteadyRelay ESP32 v7 "FinalDemo" - HOTSPOT ONLY
+//  Smart-Solar-Energy-Management-System" 
 //  Smart Solar Energy Management & Power Monitor
 //
 //  CHANGES IN THIS VERSION (v7):
